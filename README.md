@@ -24,4 +24,3 @@ print(measure.get_length("Hello, World!"))
 ```
 13
 ```
-
