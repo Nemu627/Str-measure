@@ -1,4 +1,4 @@
-# str-measure
+# Str-measure
 [![Library-discord.py](https://img.shields.io/badge/Python-3.7-3778ae?logo=Python&logoColor=ffffff)](https://python.org)
 
 # Overview
