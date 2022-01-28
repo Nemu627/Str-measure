@@ -11,7 +11,7 @@ setuptools.setup(
     description="Measure the length of a string.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Nemu627/str-measure",
+    url="https://github.com/Nemu627/Str-measure",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3.7",
