@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="str-measure",
-    version="0.0.2",
+    version="0.0.3",
     author="Nemu627",
     author_email="nemu.otoyume@gmail.com",
     description="Measure the length of a string.",
